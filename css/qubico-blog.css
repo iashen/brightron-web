@@ -56,7 +56,7 @@
     font-family:'FontAwesome';
     font-size:24px;
     line-height:24px;
-    color:#5CC9DF;
+    color:#42C9DF;
     vertical-align:middle;
     -webkit-transition:padding .3s ease-out;
     transition:padding .3s ease-out;
@@ -169,7 +169,7 @@
 
 .blog-pages ul li a {
     display:block;
-    color:#5CC9DF;
+    color:#42C9DF;
     font-size:21px;
     width:40px;
     height:40px;
@@ -181,7 +181,7 @@
 
 .blog-pages ul li.active,
 .blog-pages ul li:hover{
-    background:#5CC9DF;
+    background:#42C9DF;
     box-shadow:0 3px 0 rgba(0,0,0,0.08);
 }
 
@@ -237,7 +237,7 @@
 #blog-categories ul li a:hover,
 #blog-categories ul li.active a{
     color:#fff;
-    background:#5cc9df;
+    background:#42C9DF;
 }
 
 .post-media{
@@ -246,7 +246,7 @@
 
 .post-slider .flex-direction-nav .flex-prev,
 .post-slider .flex-direction-nav .flex-next{
-    background:#5cc9df;
+    background:#42C9DF;
     background-image:none;
     display:inline;
     text-indent:0;
@@ -285,8 +285,8 @@
 .post-slider:hover .flex-prev {opacity: 1; left: 5px;}
 
 .post-slider .flex-control-paging li a {width: 13px; height: 13px; display: block; background: #ddd; background: rgba(0,0,0,0.2); cursor: pointer; text-indent: -9999px; -webkit-border-radius: 20px; -moz-border-radius: 20px; -o-border-radius: 20px; border-radius: 20px; box-shadow: none;}
-.post-slider .flex-control-paging li a:hover { background: #5cc9df;}
-.post-slider .flex-control-paging li a.flex-active { background: #5cc9df;cursor: default; }
+.post-slider .flex-control-paging li a:hover { background: #42C9DF;}
+.post-slider .flex-control-paging li a.flex-active { background: #42C9DF;cursor: default; }
 
 /*----------------------
 ---Single Post Styles---
@@ -349,7 +349,7 @@
 }
 
 .post-share a:hover{
-    color:#5CC9DF;
+    color:#42C9DF;
 }
 
 .social-likes__icon{
@@ -366,7 +366,7 @@
 
 .social-likes__icon:hover{
     cursor:pointer;
-    color:#5CC9DF;
+    color:#42C9DF;
 }
 
 .social-likes__icon_twitter:after{
@@ -427,7 +427,7 @@
     font-family:'FontAwesome';
     font-size:28px;
     line-height:28px;
-    color:#5CC9DF;
+    color:#42C9DF;
     vertical-align:middle;
     -webkit-transition:padding .3s ease-out;
     transition:padding .3s ease-out;
@@ -448,7 +448,7 @@
     font-family:'FontAwesome';
     font-size:28px;
     line-height:28px;
-    color:#5CC9DF;
+    color:#42C9DF;
     vertical-align:middle;
     -webkit-transition:padding .3s ease-out;
     transition:padding .3s ease-out;

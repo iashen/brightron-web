@@ -28,7 +28,7 @@ a:focus,
 .social-likes__icon:hover,
 .prev-post a:before,
 .next-post a:after {
-  color:#5CC9DF;
+    color:#42c9df;
 }
 
 
@@ -62,16 +62,16 @@ a:focus,
 .post-slider .flex-control-paging li a.flex-active,
 #blog-categories ul li a:hover,
 #blog-categories ul li.active a{
-    background:#5CC9DF;
+    background:#42C9DF;
 }
 
 .process-line {
-    border-top-color:#5CC9DF;
+    border-top-color:#42C9DF;
 }
 
 .team-member:hover .member-details:after,
 .news-item:hover .news-content:after {
-    border-left-color:#5CC9DF;
+    border-left-color:#42C9DF;
 }
 
 .team-member.right:hover .member-details:after,
@@ -79,17 +79,17 @@ a:focus,
 .timeline:after,
 .news-item.right:hover .news-content:after {
     border-left-color:transparent;
-    border-right-color:#5CC9DF;
+    border-right-color:#42C9DF;
 }
 
 @media (min-width: 768px){
 
     #main-nav .nav li ul{
-        background:#5CC9DF;
+        background:#42C9DF;
 	}
 	
 	#main-nav .nav li.submenu > a:after{
-        color:#5CC9DF;
+        color:#42C9DF;
     }
 }
 
@@ -99,11 +99,11 @@ a:focus,
     .team-member.right:hover .member-details:after {
         border-right-color:transparent;
         border-left-color:transparent;
-        border-bottom-color:#5CC9DF;
+        border-bottom-color:#42C9DF;
     }
 	
     #main-nav .nav li.submenu > a:after{
-        color:#5CC9DF;
+        color:#42C9DF;
     }
 }
 

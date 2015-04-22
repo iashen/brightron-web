@@ -83,8 +83,10 @@ a:focus,
 }
 
 .padding-top-bottom {
-    padding:100px 0;
+    padding-top: 30px;
 }
+
+section#about {}
 
 .padding-top {
     padding:100px 0 0;
@@ -439,7 +441,7 @@ a:focus,
 
 .jumbotron {
     background:#5cc9df;
-    color:#fff;
+    /* color:#fff; */
     padding:0;
     margin-bottom:0;
     padding-top:80px;
