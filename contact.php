@@ -1,4 +1,5 @@
-<?php 
+<?php
+$test;
 $emailTo = 'info@brightron.net';
 $siteTitle = 'Brightron Solutions';
 
